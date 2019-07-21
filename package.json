@@ -1,9 +1,10 @@
 {
-  "name": "react-cookie",
+  "name": "react_cookie",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
+    "react-cookie": "^4.0.1",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
